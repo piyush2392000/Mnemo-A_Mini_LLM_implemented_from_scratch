@@ -17,3 +17,5 @@ If you want a detailed explaination in a component level way, you are covered i 
 3) https://medium.com/@piyush23242001/attention-is-all-you-need-1-db8f0fbeb7a0
 4) https://medium.com/@piyush23242001/attention-is-all-you-need-2-2ea7f4472e38
 5) https://medium.com/@piyush23242001/implementing-a-gpt-6d5edc9d3bc1
+6) https://medium.com/@piyush23242001/pretraining-of-model-e7007da07207
+7) https://medium.com/@piyush23242001/temperature-scaling-top-k-sampling-loading-model-weights-c54a86f81415
